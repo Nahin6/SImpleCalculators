@@ -1,0 +1,50 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    
+  }
+
+  /* Style for the form input fields */
+  input[type="number"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+  }
+
+  /* Style for the form button */
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    
+  }
+
+  /* Hover effect for the form button */
+  button:hover {
+    background-color: #3e8e7a;
+  }
+
+  /* Style for the form output */
+  #gradeResult {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+    margin-left: 10px;
+  }

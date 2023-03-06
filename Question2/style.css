@@ -1,0 +1,40 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+  
+  label {
+    margin-bottom: 5px;
+  }
+  
+  input[type="number"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
+  input[type="number"] {
+    background-color: #fff0f0;
+    cursor: default;
+  }
+  
